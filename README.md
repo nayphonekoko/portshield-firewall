@@ -46,4 +46,11 @@ Use tools like nmap from another machine or your host to scan the firewall ports
 nmap -sS -p 9900-9999 <firewall_ip>
 
 
+
+
+
+
+<img width="782" height="669" alt="Screenshot 2025-07-23 130908" src="https://github.com/user-attachments/assets/b20b5a2b-90a0-4c77-8a59-6fd6ab3a0188" />
+
+
 <img width="884" height="739" alt="Screenshot 2025-07-23 122845" src="https://github.com/user-attachments/assets/4997a43b-3051-488a-bf88-37aa65932d38" />
